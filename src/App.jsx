@@ -620,7 +620,7 @@ function App() {
         <div className="intro-text">
           <h1>LUMORA</h1>
           <p>A FESTIVAL OF LIGHT</p>
-          <h2>A CELEBRATION OF LIGHT</h2>
+         
         </div>
 
         <div className="explosion">
